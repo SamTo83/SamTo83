@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**SamTo83/SamTo83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sam, I'm a junior front-end developer with experience with the following technologies:
 
-Here are some ideas to get you started:
+Javascript
+Semantic HTML
+CSS/SCSS
+React
+NPM
+Node.js
+Figma
+Postman
+API
+Java
+I love solving problems and being creative. I believe this is the start of my journey to become a good developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out some of my projects:
+
+BrewDog API 🍻
+
+Our client project 🏟️
+
+Blackjack game ♠️
+
+Morse Code Translator 🖨️
+
+A calculator 🧮
+
+Ticket Tracker 🎫
+
+
+🐡 Outside of coding? I love fishing at the coast where I can relax my mind and appreciate everything in life.
